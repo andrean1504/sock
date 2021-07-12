@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:563553
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXTINF:10.0,
+https://cdn08jtedge.useetv.com/joss/134/mykids/media_w443573021_b1004100_sleng_55268.ts
+#EXTINF:10.0,
+https://cdn08jtedge.useetv.com/joss/134/mykids/media_w443573021_b1004100_sleng_55269.ts
+#EXTINF:10.0,
+https://cdn08jtedge.useetv.com/joss/134/mykids/media_w443573021_b1004100_sleng_55270.ts
